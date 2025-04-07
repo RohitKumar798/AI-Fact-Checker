@@ -80,3 +80,5 @@ if __name__ == "__main__":
         print("1. Check if your API token is valid at huggingface.co/settings/tokens")
         print("2. Check your internet connection")
         print("3. Check if Hugging Face API servers are up") 
+
+#all the apps controlby this
