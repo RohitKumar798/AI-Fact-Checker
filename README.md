@@ -28,6 +28,7 @@ A focused fact-checking application using Hugging Face's state-of-the-art AI mod
 1. Clone the repository:
    ```
    git clone https://github.com/yourusername/ai-fact-checker.git
+   ```
    cd ai-fact-checker
    ```
 
